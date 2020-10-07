@@ -12,6 +12,11 @@ A repository for the git/github workshop conducted on 7th October, 2020
 ## - [Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 
+[Avishi](https://github.com/XxhackergirlxX)
+
+[Ritvi](ww.instagram.com/frenzy.works)
+
+
 *Write something
 
 [Google](google.com)
@@ -38,4 +43,5 @@ A repository for the git/github workshop conducted on 7th October, 2020
 [Ritvi](ww.instagram.com/frenzy.wors)
 
 [Nemesiz](www.instagram.com/nemesiz_10/)
+
 
