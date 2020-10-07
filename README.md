@@ -4,6 +4,8 @@ A repository for the git/github workshop conducted on 7th October, 2020
 - bullet point
 
 
+
+
 [repository](https://github.com/)
 
 
@@ -31,10 +33,13 @@ harsha khandelwal
 
 
 
+
 [Himanshu](https://github.com/xSirDeadShotx)
 
 
 [Ritvi](ww.instagram.com/frenzy.works)
+
+
 
 
 
@@ -56,6 +61,7 @@ harsha khandelwal
 [Avishi](https://github.com/XxhackergirlxX)
 
 [Ritvi](ww.instagram.com/frenzy.works)
+
 
 *Write something
 
@@ -101,8 +107,11 @@ harsha khandelwal
 
 
 
+
+
 changed
 
 [Ballistic Blue](www.instagram.com/ballistic_blue_)
+
 
 
