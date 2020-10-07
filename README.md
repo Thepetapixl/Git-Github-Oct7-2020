@@ -40,7 +40,7 @@ A repository for the git/github workshop conducted on 7th October, 2020
 [Ritvi](ww.instagram.com/frenzy.works)
  
 
-## - [Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+[Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 
 [Avishi](https://github.com/XxhackergirlxX)
@@ -60,7 +60,7 @@ A repository for the git/github workshop conducted on 7th October, 2020
 [Google Meet](https://meet.google.com/hzj-gjjz-biw)
 
 
-## Connect
+
 [Ayush](https://twitter.com/ayushb_tweets)
 
 [Ritvi](ww.instagram.com/frenzy.wors)
@@ -70,9 +70,16 @@ A repository for the git/github workshop conducted on 7th October, 2020
 
 [Kirti](https://www.linkedin.com/in/kirti-chand-74b7a21a4/)
 
-## - [Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+[Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 [Jeevika](www.google.com)
+
+
+
+
+[Piyush Kumar].(www.instagram.com/piyushrock1710) 
+
+[Ritvi](ww.instagram.com/frenzy.works)
 
 
 [Ritvi](ww.instagram.com/frenzy.wors)
@@ -81,3 +88,4 @@ A repository for the git/github workshop conducted on 7th October, 2020
 
 
 changed
+
