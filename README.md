@@ -24,7 +24,11 @@ A repository for the git/github workshop conducted on 7th October, 2020
 [sakshi](ww.github.com)
 
 
+harsha khandelwal
+
+
 [Ritvi](ww.instagram.com/frenzy.wors)
+
 
 
 [Himanshu](https://github.com/xSirDeadShotx)
@@ -88,4 +92,5 @@ A repository for the git/github workshop conducted on 7th October, 2020
 
 
 changed
+
 
