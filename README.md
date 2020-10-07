@@ -3,12 +3,20 @@ A repository for the git/github workshop conducted on 7th October, 2020
 
 
 
+
 [Vedant Insta](www.instagram.com/vedant_1707)
 
 [Ritvi](ww.instagram.com/frenzy.works)
  
 
 ## - [Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+
+
+*Write something
+
+[Google](google.com)
+
+[Ritvi](ww.instagram.com/frenzy.wors)
 
 
 
@@ -23,9 +31,11 @@ A repository for the git/github workshop conducted on 7th October, 2020
 [Ritvi](ww.instagram.com/frenzy.wors)
 
 
-=======
 ## - [Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 [Jeevika](www.google.com)
 
 [Ritvi](ww.instagram.com/frenzy.wors)
+
+[Nemesiz](www.instagram.com/nemesiz_10/)
+
