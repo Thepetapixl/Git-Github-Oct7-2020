@@ -3,6 +3,13 @@ A repository for the git/github workshop conducted on 7th October, 2020
 
 
 
+*Write something
+
+[Google](google.com)
+
+[Ritvi](ww.instagram.com/frenzy.wors)
+
+
 
 [Github](https://github.com/Thepetapixl)
 [Google Meet](https://meet.google.com/hzj-gjjz-biw)
@@ -20,3 +27,4 @@ A repository for the git/github workshop conducted on 7th October, 2020
 [Ritvi](ww.instagram.com/frenzy.wors)
 
 [Nemesiz](www.instagram.com/nemesiz_10/)
+
