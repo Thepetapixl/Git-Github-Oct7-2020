@@ -15,6 +15,12 @@ A repository for the git/github workshop conducted on 7th October, 2020
 
 
 
+
+[Atul](www.google.co.in)
+
+
+[Ritvi](ww.instagram.com/frenzy.wors)
+
 [sakshi](ww.github.com)
 
 
