@@ -81,7 +81,7 @@ harsha khandelwal
 
 
 
-[Piyush Kumar].(www.instagram.com/piyushrock1710) 
+[Piyush Kumar](www.instagram.com/piyushrock1710) 
 
 [Ritvi](ww.instagram.com/frenzy.works)
 
