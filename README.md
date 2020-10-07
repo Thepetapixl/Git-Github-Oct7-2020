@@ -53,6 +53,14 @@ harsha khandelwal
 
 
 
+[Avishi](https://github.com/XxhackergirlxX)
+
+[Ritvi](ww.instagram.com/frenzy.works)
+
+*Write something
+
+
+
 [Google](google.com)
 
 [Ritvi](ww.instagram.com/frenzy.wors)
@@ -91,7 +99,10 @@ harsha khandelwal
 [Nemesiz](www.instagram.com/nemesiz_10/)
 
 
+
+
 changed
 
 [Ballistic Blue](www.instagram.com/ballistic_blue_)
+
 
