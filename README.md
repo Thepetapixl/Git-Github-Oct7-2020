@@ -2,6 +2,12 @@
 A repository for the git/github workshop conducted on 7th October, 2020 
 
 
+[Himanshu](https://github.com/xSirDeadShotx)
+
+
+[Ritvi](ww.instagram.com/frenzy.works)
+
+
 
 [Avishi](https://github.com/XxhackergirlxX)
 
