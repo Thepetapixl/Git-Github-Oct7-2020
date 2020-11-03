@@ -4,6 +4,9 @@ A repository for the git/github workshop conducted on 7th October, 2020
 - bullet point
 
 
+[Jeevika](www.google.com)
+
+## - [Armaan](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
 
 [repository](https://github.com/)
@@ -27,6 +30,7 @@ A repository for the git/github workshop conducted on 7th October, 2020
 
 
 harsha khandelwal
+
 
 
 [Ritvi](ww.instagram.com/frenzy.wors)
